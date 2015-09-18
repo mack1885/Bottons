@@ -1,4 +1,4 @@
-# Bottons
+# Buttons
 Help with fixing errors in creating a button
 
 All in Android Studio
